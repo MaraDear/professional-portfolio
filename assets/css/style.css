@@ -13,18 +13,28 @@ header {
 }
 
 nav {
-    padding-top: 20px;
-    float: right;
+    position: sticky;
+    top: 0;
+    left: 0;
+    display: flex;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
+
 }
 
 nav ul {
-    list-style-type: armenian;
+    list-style-type: none;
 }
 
 .hero {
     margin: auto;
     justify-content: center;
     align-items: center;
+    display: flex;
+    align-items: center;
+}
+
+.hero-img {
+    height: 300px;
+    width: 300px;
 }
