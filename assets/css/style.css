@@ -7,3 +7,24 @@
 body {
     background-color: #fff;
 }
+
+header {
+
+}
+
+nav {
+    padding-top: 20px;
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+nav ul {
+    list-style-type: armenian;
+}
+
+.hero {
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
