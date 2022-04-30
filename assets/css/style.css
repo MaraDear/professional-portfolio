@@ -8,10 +8,6 @@ body {
     background-color: #fff;
 }
 
-header {
-
-}
-
 nav {
     position: sticky;
     top: 0;
@@ -19,6 +15,7 @@ nav {
     display: flex;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
+    background-color: darkslategrey;
 
 }
 
