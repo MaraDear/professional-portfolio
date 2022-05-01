@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #fff;
+    background-image: url(../images/backgroundimage.jpg);
+    background-size: cover;
 }
 
 nav {
@@ -16,11 +17,11 @@ nav {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
     background-color: darkslategrey;
-
 }
 
 nav ul {
     list-style-type: none;
+    color: #fff;
 }
 
 .hero {
