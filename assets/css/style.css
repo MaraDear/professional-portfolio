@@ -45,27 +45,6 @@ h2 {
     margin-bottom: 30px;
 }
 
-.maincontent h3 {
-    font-size: 50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-
-.maincontent {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: black;
-    text-align: center
-}
-
-.maincontent img {
-    max-height: 300px;
-}
-
 .hero-img {
     height: 300px;
     width: 300px;
@@ -74,3 +53,44 @@ h2 {
     margin-left: auto;
     margin-right: auto;
 }
+
+h3, h4 {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.maincontent {
+    margin-bottom: 80px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-align: center;
+    display: block;
+}
+
+.maincontent img {
+    max-height: 225px;
+}
+
+.container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
