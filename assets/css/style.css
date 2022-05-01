@@ -94,3 +94,23 @@ h3, h4 {
     text-align: center;
 }
 
+.container-two {
+    position: relative;
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.container-two .content-two {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 50%;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
