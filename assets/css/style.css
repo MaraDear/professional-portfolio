@@ -29,15 +29,18 @@ body {
     background-color: darkgreen;
 }
 
-.hero {
-    margin: auto;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    align-items: center;
+h1 {
+    font-size: 100px;
+    color: rgb(41, 39, 39);
+    font-family: serif;
+    text-align: center;
 }
 
 .hero-img {
     height: 300px;
     width: 300px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
