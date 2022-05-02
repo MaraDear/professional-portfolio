@@ -162,3 +162,7 @@ input, select, textarea {
     right: 1%;
     bottom: 50%;
   }
+
+  .footer {
+      text-align: center;
+  }
