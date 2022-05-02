@@ -3,7 +3,7 @@
 # Links
 
 * [Link to website](https://maradear.github.io/professional-portfolio/)
-* [Link to code repository](https://github.com/MaraDear/professinal-portfolio)
+* [Link to code repository](https://github.com/MaraDear/professional-portfolio)
 
 ## Description
 
