@@ -23,9 +23,9 @@ To install my portfolio page, login to Github and got to github.com/MaraDear/Pro
 
 Access the webpage to recieve more information about me. Use the links at the top of the page to go directly to the information you're looking for or read through the site independently. Learn more about me, my skills and the projects I've worked on.
 
-![image] ![Screenshot (27)](https://user-images.githubusercontent.com/102925259/166175585-c03c62ea-2cea-4ebe-be37-5cba012a2c0d.png)
-![Screenshot (29)](https://user-images.githubusercontent.com/102925259/166175604-862f2a9e-57cc-479d-b6b3-ee7489c8c7d3.png)
-![Screenshot (28)](https://user-images.githubusercontent.com/102925259/166175615-658e6a78-89e9-448b-8c0d-2ec85f3f02f1.png)
+![image] ![Screenshot (27)](https://user-images.githubusercontent.com/102925259/166175688-3ae1f702-91e9-4d1d-a204-2c7fd1a9a43c.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/102925259/166175704-6e42b599-c087-4842-a5a4-f371b8663940.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/102925259/166175711-79f1e193-7125-4f94-b9d0-5b81dfbd8e20.png)
 
 
 
